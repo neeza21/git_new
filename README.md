@@ -1,3 +1,4 @@
 # git_new
 # github_workshop 
-This is an example of repository
+# github_example
+This is second example of repository
